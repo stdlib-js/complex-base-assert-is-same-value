@@ -85,7 +85,7 @@ var out = isSameValue( z1, z2 );
 // returns true
 ```
 
-In contract to the strict equality operator `===`, the function distinguishes between `+0` and `-0` and treats `NaNs` as the same value.
+In contrast to the strict equality operator `===`, the function distinguishes between `+0` and `-0` and treats `NaNs` as the same value.
 
 ```javascript
 var Complex128 = require( '@stdlib/complex-float64' );
@@ -284,11 +284,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
@@ -331,8 +326,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [umd-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value/tree/umd
 [esm-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value/tree/esm
 [branches-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/complex-base-assert-is-same-value/main/LICENSE
 
 [ecma-262-same-value-algorithm]: http://ecma-international.org/ecma-262/5.1/#sec-9.12
 
