@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/complex-base-assert-is-same-value",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether two double-precision complex floating-point numbers are the same value.",
   "license": "Apache-2.0",
   "author": {
