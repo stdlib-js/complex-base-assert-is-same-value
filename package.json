@@ -42,6 +42,7 @@
     "@stdlib/assert-is-same-value": "^0.1.1",
     "@stdlib/complex-float64": "^0.1.1",
     "@stdlib/complex-reim": "^0.1.1",
+    "@stdlib/number-float64-base-assert-is-same-value": "github:stdlib-js/number-float64-base-assert-is-same-value#main",
     "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {
